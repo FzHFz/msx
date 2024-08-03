@@ -1,5 +1,5 @@
 {    
-    "name": "Start StremioMSX",
+    "name": "Start uflix",
     "version": "1.0.0",
     "parameter": "content:https://fzhfz.github.io/msx_repo/data/content.json",
     "welcome": "none"
